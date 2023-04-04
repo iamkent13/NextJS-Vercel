@@ -5,7 +5,7 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   return (
     <Layout pageTitle="Home Page">
-      <Image src="/lookism.jpeg" width={500} height={300} alt="lookism" />
+      <Image src="/Lookism.jpeg" width={500} height={300} alt="lookism" />
       <h1 className={styles["title-homepage"]}>Welcome Kent</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi ea eligendi quam minus doloremque odit ad voluptas atque labore, quia laboriosam, id, rerum esse commodi excepturi odio nihil neque. Suscipit.</p>
       <p>
